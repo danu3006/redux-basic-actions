@@ -1,0 +1,21 @@
+{
+  "name": "redux-basic-actions",
+  "version": "0.1.1",
+  "description": "A simple utility to create actions and reducers for basic async calls to an API.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "typings": "dist/index.d.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/mocha": "^5.2.5",
+    "@types/node": "^10.12.8",
+    "tslint": "^5.11.0",
+    "tslint-config-prettier": "^1.15.0",
+    "tslint-react": "^3.6.0",
+    "typescript": "^3.1.6"
+  }
+}
